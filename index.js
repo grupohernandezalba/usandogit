@@ -1,2 +1,2 @@
-let mensaje = "Hola Git"
+let mensaje = "Hola Rene bienvenido a GHA"
 console.log(mensaje)
